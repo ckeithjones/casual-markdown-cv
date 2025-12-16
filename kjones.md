@@ -13,11 +13,12 @@ United States
 - VMware Infrastructure
 
 ## Certifications
-- Cisco Certified Network Associate Routing and Switching (CCNA)  
+- Azure Solutions Architect Expert
+- CCNA + CCNP (expired 2020)
 - CompTIA Security+  
 - VMware Professional - Datacenter Virtualization 2020  
 - F5 Certified BIG-IP Administrator (F5-CA)  
-- Microsoft Certified: Azure Solutions Architect Expert
+
 
 ## Experience
 
