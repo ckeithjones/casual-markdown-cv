@@ -38,12 +38,12 @@ United States
 *September 2011 - November 2018 (7 years 3 months)*  
 *Georgia*  
 
-Led greenfield VMware NSX-V deployment for federal agency: designed architecture, configured logical switching, routing, distributed firewall, micro-segmentation, edge services gateway, load balancing; performed setup, troubleshooting, maintenance for software-defined networking (SDN) and zero-trust security.
-Administered enterprise VMware vSphere/ESXi 5.5-6.7 environment with vCenter Server: managed 2,000+ VMs, clusters, High Availability (HA), Distributed Resource Scheduler (DRS), vMotion, Storage vMotion, Fault Tolerance; optimized performance, scalability, resource allocation.
-Standardized and administered Windows Server environments: Active Directory, Group Policy, patching via SCCM, System Center Orchestrator/SCOM for automation, monitoring, troubleshooting; ensured compliance and efficiency.
-Directed datacenter infrastructure upgrades: HP C7000/Synergy blade enclosures, Cisco Layer 2/3 datacenter networking, SolarWinds enterprise monitoring migration, Cisco wireless controller/AP deployments.
-Managed security solutions: Palo Alto firewalls, Forcepoint/Websense web/email security, Sterling Connect:Direct secure file transfer; Akamai CDN administration.
-Enforced change management, enterprise compliance, disaster recovery planning.
+- Led greenfield VMware NSX-V deployment for federal agency: designed architecture, configured logical switching, routing, distributed firewall, micro-segmentation, edge services gateway, load balancing; performed setup, troubleshooting, maintenance for software-defined networking (SDN) and zero-trust security.
+- Administered enterprise VMware vSphere/ESXi 5.5-6.7 environment with vCenter Server: managed 2,000+ VMs, clusters, High Availability (HA), Distributed Resource Scheduler (DRS), vMotion, Storage vMotion, Fault Tolerance; optimized performance, scalability, resource allocation.
+- Standardized and administered Windows Server environments: Active Directory, Group Policy, patching via SCCM, System Center Orchestrator/SCOM for automation, monitoring, troubleshooting; ensured compliance and efficiency.
+- Directed datacenter infrastructure upgrades: HP C7000/Synergy blade enclosures, Cisco Layer 2/3 datacenter networking, SolarWinds enterprise monitoring migration, Cisco wireless controller/AP deployments.
+- Managed security solutions: Palo Alto firewalls, Forcepoint/Websense web/email security, Sterling Connect:Direct secure file transfer; Akamai CDN administration.
+- Enforced change management, enterprise compliance, disaster recovery planning.
 
 ### Monterey Consultants, Inc.  
 #### Senior Network Engineer  
