@@ -24,12 +24,12 @@ United States
 ### RESEARCH MANAGEMENT CONSULTANTS INC.  
 *14 years 4 months*
 
-#### Senior CloudOps Engineer  
+#### Azure DevOps Engineer  
 *November 2018 - Present (7 years 2 months)*  
 
 - Architected and implemented secure, scalable Azure cloud solutions leveraging IaaS, PaaS, SaaS, and hybrid models to migrate on-premises infrastructure to Azure, ensuring high availability, disaster recovery, and compliance.  
 - Led comprehensive cloud assessments of applications, VMs, and infrastructure using Azure Migrate and Azure Site Recovery; identified optimization gaps and recommended cost-effective lift-and-shift strategies for Azure Virtual Machines, Virtual Networks, and Storage, reducing operational costs through FinOps best practices.  
-- Specialized in IaC deployments with ARM templates, Terraform, and Bicep; orchestrated CI/CD pipelines via Azure DevOps and GitHub Actions, incorporating containerization with Docker and Kubernetes for agile, automated releases.  
+- Specialized in IaC deployments with ARM templates and Bicep; orchestrated CI/CD pipelines via Azure DevOps and GitHub Actions.
 - Mentored and trained junior engineers on Azure CLI and Portal usage, fostering certifications (AZ-900, AZ-104, AZ-305) and promoting agile methodologies to enhance team productivity.  
 - Acted as primary liaison for cross-functional teams (DevOps, SecOps, FinOps, Microsoft Services), aligning on Azure Governance, Policy, RBAC, Blueprints, and Cost Management to drive seamless collaboration and strategic IT leadership.
 
